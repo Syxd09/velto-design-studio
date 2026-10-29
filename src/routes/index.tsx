@@ -21,8 +21,8 @@ import {
   ButtonLink,
   Eyebrow,
   Progress,
-  Wordmark,
 } from "@/components/velto/ui";
+import { Wordmark } from "@/components/velto/app-shell";
 
 export const Route = createFileRoute("/")({
   head: () => ({
